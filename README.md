@@ -38,4 +38,4 @@ Interactive Bar Chart: The bar chart provides a clear visual representation of t
 Interactive Geo-spatial Map: The choropleth map visually displays the percentage increases on a world map, coloring regions based on their values. Asia is highlighted with the most intense color due to its high increase, while Europe is colored lightly due to its low increase.
 
 ### Language used 
-Python
+- Python
